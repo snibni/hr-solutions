@@ -7,11 +7,16 @@ This repository contains a comprehensive project focused on analyzing employee d
 There are two key deliveravles for this project: 
 
 * The complete code notebook detailing the entire analytical process as well as the interpretation and evaluation of the predictive models, relevant data visualizations, ethical considerations related to the analysis and its implications.
-* A concise one-page summary intended for presentation to external stakeholders of the fictional company Sailfort Motor
+* A concise one-page summary intended for presentation to external stakeholders of the fictional company Sailfort Motors
 
 
-## Project Goal
+### Project Goal
 Identify turnover factors and recommend retention strategies. The aim is to predict why employees might leave and suggest ways to enhance retention and job satisfaction, ultimately saving the company time and resources spent on training new employees.
+
+
+## Instructions
+Open the .ipynb file to view the Jupyter Notebook detailing the analytical process as well as the interpretation and evaluation of the predictive models, relevant data visualizations, ethical considerations related to the analysis and its implications.
+To view the one-page summary, open the ??? file. 
 
 
 ## Find a bug?
