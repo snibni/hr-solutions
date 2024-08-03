@@ -17,7 +17,7 @@ Identify turnover factors and recommend retention strategies. The aim is to pred
 ## Instructions
 Open the .ipynb file to view the Jupyter Notebook detailing the analytical process, python code as well as the interpretation and evaluation of the predictive models, relevant data visualizations, ethical considerations related to the analysis and its implications.
 
-To view the one-page summary, open the ??? file. 
+To view the one-page summary, open the pdf file. 
 
 
 ## Find a bug?
